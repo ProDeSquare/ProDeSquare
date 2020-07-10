@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my github profile
+### Here is some info about me
+I'm a student studying computer science and working part time by writing code and enjoy using and exploring linux.
 
 <!--
 **ProDeSquare/prodesquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
