@@ -1,18 +1,27 @@
-## Welcome to my github profile
-### Here is some info about me
-I'm a student studying computer science and working part time by writing code and enjoy using and exploring linux.
+### Hello World 👋
 
-<!--
-**ProDeSquare/prodesquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```lua
+About = {
+  name = "Hamza Mughal",
+  email = "hamza@prodesquare.com",
+  from = "Faisalabad, Pakistan",
+  currently_learning = {
+    "bitcoin & blockchain",
+    "machine learning",
+    "typescript",
+    "rust",
+    "lua",
+  },
+  hobbies = {
+    "Exploring GNU/Linux"
+  }
+}
+```
 
-Here are some ideas to get you started:
+### How to reach me
+- 🌏 Visit my [Website.](https://prodesquare.com)
+- ✉ Say hello on my [email.](mailto:hamza@prodesquare.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Help me out
+- Bitcoin: `18Hd1waYh5uG6nWRboXGD3Q3vaPzWRMgQH`
+- Ethereum: `0x90b3f1495724e9e6a18372cb939df1d7166337b9`
