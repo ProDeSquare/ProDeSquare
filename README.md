@@ -25,4 +25,4 @@ About = {
 ### Help me out
 - Bitcoin: `18Hd1waYh5uG6nWRboXGD3Q3vaPzWRMgQH`
 - Ethereum: `0x90b3f1495724e9e6a18372cb939df1d7166337b9`
-- Monero: `88yteQGENjs7f6Ae7nTktvWTov58md5zccxFSP9CpcjVPSL8P8ictxbX5eC9fJ8W5TG3Nr8vskYhmPWk8YP9Wug97LyEhDW`
+- Monero: `88ZscYwoNmTcf2xM1d6UFuGr2eyNh8V6kU2NkZFC7zTA84fWjjHMxrnDdHrquFm1sFRCvGXejvz2bBfBRZLNE5DQ3fngypz`
